@@ -28,11 +28,6 @@ return(
         </a>
     </div>
     <br></br>
-    <div>
-    <a href="" target="_blank">
-            <img src={Stack} width='400px' height='100px'></img>
-        </a>
-    </div>
 </footer>
 
 )
